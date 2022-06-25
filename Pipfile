@@ -8,6 +8,7 @@ verify_ssl = true
 [packages]
 opencv-python-headless = "*"
 beautifulsoup4 = "*"
+numpy = ">=1.22"
 
 [requires]
-python_version = "3.7"
+python_version = "3.8"
